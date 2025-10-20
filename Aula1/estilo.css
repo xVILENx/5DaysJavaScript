@@ -1,0 +1,23 @@
+/* CSS Externo */
+
+/* TAG */
+h1 {
+    font-size: 64px;
+    color:red;
+}
+h2 {
+    color: blue;
+}
+        
+/* ID */
+#título {
+    background-color: bisque;
+}
+
+/* Classe */
+.título {
+    font-size: 48px;
+}
+    
+
+ 
